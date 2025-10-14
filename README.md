@@ -1,7 +1,5 @@
 # Multi-Platform Spam Classification Tool
 
-MSIN0221: Natural Language Processing (2023/24)
-
 A comparative study and prototype tool for spam detection across email, SMS, and social media. Three model families are implemented and evaluated under domain-shift scenarios:
 
 * **TF-IDF + Naive Bayes**
