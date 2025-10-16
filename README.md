@@ -1,4 +1,4 @@
-# Multi-Platform Spam Classification Tool
+# Multi-Platform Spam Classification Tool - NLP
 
 A comparative study and prototype tool for spam detection across email, SMS, and social media. Three model families are implemented and evaluated under domain-shift scenarios:
 
